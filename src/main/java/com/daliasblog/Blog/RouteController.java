@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class RouteController {
+	// Route mappings for main frontend pages
 
 	@GetMapping("/about")
 	public String getAboutPage() {
