@@ -1,3 +1,9 @@
+/*
+ * Dalia Sinclair
+ * RouteController
+ * Controller class containing methods for each URL route
+ */
+
 package com.daliasblog.Blog;
 
 import org.springframework.stereotype.Controller;
