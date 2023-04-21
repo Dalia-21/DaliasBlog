@@ -1,3 +1,9 @@
+/*
+ * Dalia Sinclair
+ * BlogApplication class
+ * Main entrypoint for Spring Framework
+ */
+
 package com.daliasblog.Blog;
 
 import org.springframework.boot.SpringApplication;
